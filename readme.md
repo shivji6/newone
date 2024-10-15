@@ -1,3 +1,3 @@
-# newone filegit
+# newone file
 
 This is a newone repositery file.
